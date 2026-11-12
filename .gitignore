@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.test-tmp/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+artifacts/
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+quality_report*.json
+rejected_orders*.csv
+.env
